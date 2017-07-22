@@ -97,3 +97,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Database stuff
+*.sqlite3
+migrations/
+db.sqlite3
+.vscode
